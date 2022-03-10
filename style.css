@@ -1,0 +1,30 @@
+body {
+  margin: auto 28%;
+}
+
+h1 {
+  font-weight: normal;
+}
+
+.select {
+  font-weight: 100;
+}
+ 
+.table {
+	width: 100%;
+	margin-bottom: 20px;
+	border: 1px solid #292828;
+	border-collapse: collapse;
+}
+
+.table th {
+	font-weight: bold;
+	padding: 5px;
+	background: #949393;
+	border: 1px solid #272727;
+}
+
+.table td {
+	border: 1px solid #353434;
+	padding: 5px;
+}
